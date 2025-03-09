@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.aws.imagepipeline.AppTest" time="0.088" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.aws.imagepipeline.AppTest" time="0.08" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="gopherProxySet" value="false"/>
     <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
@@ -17,7 +17,7 @@
     <property name="user.country" value="US"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="/Users/jallen/Library/Java/JavaVirtualMachines/corretto-1.8.0_442/Contents/Home/jre/lib"/>
-    <property name="sun.java.command" value="/Users/jallen/aws-image-recognition/carrecognition/target/surefire/surefirebooter-20250309130532325_3.jar /Users/jallen/aws-image-recognition/carrecognition/target/surefire 2025-03-09T13-05-32_094-jvmRun1 surefire-20250309130532325_1tmp surefire_0-20250309130532325_2tmp"/>
+    <property name="sun.java.command" value="/Users/jallen/aws-image-recognition/carrecognition/target/surefire/surefirebooter-20250309160145330_3.jar /Users/jallen/aws-image-recognition/carrecognition/target/surefire 2025-03-09T16-01-45_129-jvmRun1 surefire-20250309160145330_1tmp surefire_0-20250309160145330_2tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="surefire.test.class.path" value="/Users/jallen/aws-image-recognition/carrecognition/target/test-classes:/Users/jallen/aws-image-recognition/carrecognition/target/classes:/Users/jallen/.m2/repository/com/amazonaws/aws-java-sdk-s3/1.12.655/aws-java-sdk-s3-1.12.655.jar:/Users/jallen/.m2/repository/com/amazonaws/aws-java-sdk-kms/1.12.655/aws-java-sdk-kms-1.12.655.jar:/Users/jallen/.m2/repository/com/amazonaws/aws-java-sdk-core/1.12.655/aws-java-sdk-core-1.12.655.jar:/Users/jallen/.m2/repository/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar:/Users/jallen/.m2/repository/commons-codec/commons-codec/1.15/commons-codec-1.15.jar:/Users/jallen/.m2/repository/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar:/Users/jallen/.m2/repository/org/apache/httpcomponents/httpcore/4.4.13/httpcore-4.4.13.jar:/Users/jallen/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.12.7.1/jackson-databind-2.12.7.1.jar:/Users/jallen/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.12.7/jackson-annotations-2.12.7.jar:/Users/jallen/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.12.7/jackson-core-2.12.7.jar:/Users/jallen/.m2/repository/com/fasterxml/jackson/dataformat/jackson-dataformat-cbor/2.12.6/jackson-dataformat-cbor-2.12.6.jar:/Users/jallen/.m2/repository/joda-time/joda-time/2.8.1/joda-time-2.8.1.jar:/Users/jallen/.m2/repository/com/amazonaws/jmespath-java/1.12.655/jmespath-java-1.12.655.jar:/Users/jallen/.m2/repository/com/amazonaws/aws-java-sdk-rekognition/1.12.655/aws-java-sdk-rekognition-1.12.655.jar:/Users/jallen/.m2/repository/com/amazonaws/aws-java-sdk-sqs/1.12.655/aws-java-sdk-sqs-1.12.655.jar:/Users/jallen/.m2/repository/junit/junit/4.13.2/junit-4.13.2.jar:/Users/jallen/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -31,7 +31,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/Users/jallen/aws-image-recognition/carrecognition/target/surefire/surefirebooter-20250309130532325_3.jar"/>
+    <property name="surefire.real.class.path" value="/Users/jallen/aws-image-recognition/carrecognition/target/surefire/surefirebooter-20250309160145330_3.jar"/>
     <property name="sun.boot.class.path" value="/Users/jallen/Library/Java/JavaVirtualMachines/corretto-1.8.0_442/Contents/Home/jre/lib/resources.jar:/Users/jallen/Library/Java/JavaVirtualMachines/corretto-1.8.0_442/Contents/Home/jre/lib/rt.jar:/Users/jallen/Library/Java/JavaVirtualMachines/corretto-1.8.0_442/Contents/Home/jre/lib/sunrsasign.jar:/Users/jallen/Library/Java/JavaVirtualMachines/corretto-1.8.0_442/Contents/Home/jre/lib/jsse.jar:/Users/jallen/Library/Java/JavaVirtualMachines/corretto-1.8.0_442/Contents/Home/jre/lib/jce.jar:/Users/jallen/Library/Java/JavaVirtualMachines/corretto-1.8.0_442/Contents/Home/jre/lib/charsets.jar:/Users/jallen/Library/Java/JavaVirtualMachines/corretto-1.8.0_442/Contents/Home/jre/lib/jfr.jar:/Users/jallen/Library/Java/JavaVirtualMachines/corretto-1.8.0_442/Contents/Home/jre/classes"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
@@ -62,5 +62,5 @@
     <property name="java.class.version" value="52.0"/>
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
   </properties>
-  <testcase name="testApp" classname="com.aws.imagepipeline.AppTest" time="0.005"/>
+  <testcase name="testApp" classname="com.aws.imagepipeline.AppTest" time="0.008"/>
 </testsuite>

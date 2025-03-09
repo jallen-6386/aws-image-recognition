@@ -51,7 +51,7 @@
           </descriptorRefs>
           <archive>
             <manifest>
-              <mainClass>carrecognition.CarRecognitionApplication</mainClass>  <!-- Change for textrecognition -->
+              <mainClass>carrecognition.CarRecognitionApplication</mainClass>
             </manifest>
           </archive>
         </configuration>

@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.aws.imagepipeline.AppTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.088 s -- in com.aws.imagepipeline.AppTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.080 s -- in com.aws.imagepipeline.AppTest
